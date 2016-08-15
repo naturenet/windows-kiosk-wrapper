@@ -22,7 +22,7 @@ namespace NatureNet
             this.InitializeComponent();
 
             //if the website changes addresses, simply change this line
-            NatureNetWV.Navigate(new Uri("http://nature-net.org"));
+            NatureNetWV.Navigate(new Uri("https://nature-net.org"));
         }
 
         //when links are clicked that open a new window, no action is taken (as opposed to opening an new window
